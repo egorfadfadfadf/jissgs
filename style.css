@@ -1,0 +1,45 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color: blue;
+}
+
+header img{
+    border: azure;
+    border-radius: 10px;
+    color:  darkblue;
+}
+
+header img {
+    margin: 10px;
+}
+
+header a {
+    background-color: white;
+    text-decoration: none;
+    border: 5px;
+    border-radius: 12px;
+    margin: 10px;
+    padding: 7px;
+}
+
+h1{
+    font-size: 50px;
+    text-align: center;
+    background-color: wheat;
+    color: darkmagenta;
+    border: 3px dashed darkorchid;
+    border: 3px dashed darkorchid;
+    border-radius: 25px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+footer p{
+    background-color: indianred;
+    color: black;
+}
+
+main p{
+                   
